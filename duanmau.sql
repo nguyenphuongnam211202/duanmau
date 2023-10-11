@@ -42,31 +42,7 @@ CREATE TABLE `binhluan` (
 -- Đang đổ dữ liệu cho bảng `binhluan`
 --
 
-INSERT INTO `binhluan` (`id`, `noidung`, `iduser`, `idpro`, `ngaybinhluan`) VALUES
-(33, 'thuyr', 3, 23, '8:38:56 AM 03/10/2022'),
-(34, 'abc', 3, 23, '17:23:05 PM 03/10/2022'),
-(35, 'ttttttttttt', 0, 23, '17:26:10 PM 04/10/2022'),
-(36, 'ttttttt', 3, 23, '17:26:40 PM 04/10/2022'),
-(39, 'aasasdasdasdasd', 3, 23, '22:37:50 PM 04/10/2022'),
-(42, 'eqweq', 3, 22, '14:35:59 PM 05/10/2022'),
-(43, '12423432', 3, 22, '15:09:02 PM 12/10/2022'),
-(44, 'qwewq', 0, 21, '22:36:01 PM 15/10/2022'),
-(45, 'SÀUHIUDFIUQEFEIFUOABFSIDLBVFISBVDSObSPIBFSDJVDFJBVDAJKFNOiasfisuduifhgsfdifndfjv dfijEOIHFEWUVB QƯDNIADHQWI QƯDEFUIHEF9EIOFWINIvdwvnOEWNFISDVNE', 0, 21, '22:36:51 PM 15/10/2022'),
-(46, 'alo', 0, 20, '22:42:57 PM 15/10/2022'),
-(47, 'eqwe', 19, 27, '22:46:34 PM 15/10/2022'),
-(48, 'thuỷ', 4, 24, '22:47:30 PM 15/10/2022'),
-(50, 'alo', 18, 22, '22:48:45 PM 15/10/2022'),
-(51, 'oke', 18, 22, '22:48:48 PM 15/10/2022'),
-(52, 'rat chi la ok', 18, 22, '22:48:56 PM 15/10/2022'),
-(53, 'good chops', 18, 22, '22:49:04 PM 15/10/2022'),
-(54, 'dsad', 22, 31, '13:45:46 PM 19/10/2022'),
-(55, 'fd', 0, 24, '15:05:00 PM 19/10/2022'),
-(56, 'gfdgdfgdfgd', 0, 24, '15:05:03 PM 19/10/2022'),
-(57, 'ttttt', 0, 23, '15:05:36 PM 19/10/2022'),
-(58, '123', 22, 22, '20:35:42 PM 19/10/2022'),
-(59, '4324', 17, 22, '20:35:56 PM 19/10/2022');
 
--- --------------------------------------------------------
 
 --
 -- Cấu trúc bảng cho bảng `cart`
